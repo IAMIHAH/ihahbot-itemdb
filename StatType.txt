@@ -1,0 +1,79 @@
+StatType/MaxHp┃최대 체력
+StatType/MaxHpByLv┃레벨 당 최대 체력
+StatType/MaxSp┃최대 스태미너
+StatType/AttackPower┃공격력
+StatType/AttackPowerByLv┃레벨 당 공격력
+StatType/Defense┃방어력
+StatType/DefenseByLv┃레벨 당 방어력
+StatType/HpRegen┃체력 재생
+StatType/SpRegen┃스태미너 재생
+StatType/AttackSpeed┃공격 속도
+StatType/AttackSpeedRatioByLv┃레벨 당 공격 속도
+StatType/MoveSpeed┃이동 속도
+StatType/SightRange┃시야
+StatType/AttackRange┃기본 공격 사거리
+StatType/CriticalStrikeChance┃치명타 확률
+StatType/CriticalStrikeDamage┃치명타 피해량
+StatType/PreventCriticalStrikeDamaged┃치명타 피해 감소
+StatType/CooldownReduction┃쿨다운 감소
+StatType/CooldownLimit┃최대 쿨다운 감소
+StatType/LifeSteal┃모든 피해 흡혈
+StatType/NormalLifeSteal┃생명력 흡수
+StatType/SkillLifeSteal┃스킬 피해 흡혈
+StatType/AttackPowerRatio┃공격력
+StatType/DefenseRatio┃방어력
+StatType/MaxHpRatio┃최대 체력
+StatType/MaxSpRatio┃최대 스태미너
+StatType/HpRegenRatio┃체력 재생
+StatType/SpRegenRatio┃스태미너 재생
+StatType/AttackSpeedRatio┃공격 속도
+StatType/MoveSpeedRatio┃이동 속도
+StatType/TrapDamageRatio┃트랩 피해
+StatType/AmplifierToMonsterRatio┃야생 동물 공격 시 피해
+StatType/MoveSpeedOutOfCombat┃비 전투중 이동 속도
+StatType/IncreaseBasicAttackDamage┃기본 공격 추가 피해
+StatType/IncreaseBasicAttackDamageByLv┃레벨 당 기본 공격 추가 피해
+StatType/IncreaseBasicAttackDamageRatio┃기본 공격 증폭
+StatType/IncreaseBasicAttackDamageRatioByLv┃레벨 당 기본 공격 증폭
+StatType/PreventBasicAttackDamaged┃기본 공격 피해 감소
+StatType/PreventBasicAttackDamagedByLv┃레벨 당 기본 공격 피해 감소
+StatType/PreventBasicAttackDamagedRatio┃기본 공격 피해 감소
+StatType/PreventBasicAttackDamagedRatioByLv┃레벨 당 기본 공격 피해 감소
+StatType/IncreaseSkillDamage┃스킬 공격 추가 피해
+StatType/IncreaseSkillDamageByLv┃레벨 당 스킬 공격 추가 피해
+StatType/IncreaseSkillDamageRatio┃스킬 증폭
+StatType/IncreaseSkillDamageRatioByLv┃레벨 당 스킬 증폭
+StatType/PreventSkillDamaged┃스킬 피해 감소
+StatType/PreventSkillDamagedByLv┃레벨 당 스킬 피해 감소
+StatType/PreventSkillDamagedRatio┃스킬 피해 감소
+StatType/PreventSkillDamagedRatioByLv┃레벨 당 스킬 피해 감소
+StatType/PenetrationDefense┃방어 관통
+StatType/PenetrationDefenseRatio┃방어 관통
+StatType/TrapDamageReduce┃트랩 피해 감소
+StatType/TrapDamageReduceRatio┃트랩 피해 감소
+StatType/HealerGiveHpHealRatio┃주는 회복 증가
+StatType/HpHealedIncreaseRatio┃받는 회복 증가
+StatType/HpHealedDecreaseRatio┃치유 감소
+StatType/HpHealRatio┃모든 치유 효과
+StatType/DecreaseRecoveryToBasicAttack┃기본 공격 시 치유 감소
+StatType/DecreaseRecoveryToSkill┃스킬 적중 시 치유 감소
+StatType/FullDecreaseRecoveryToBasicAttackMelee┃기본 공격 시 치유 감소(근거리)
+StatType/HalfDecreaseRecoveryToBasicAttackMelee┃기본 공격 시 치유 감소(근거리)
+StatType/FullDecreaseRecoveryToSkillMelee┃스킬 적중 시 치유 감소(근거리)
+StatType/HalfDecreaseRecoveryToSkillMelee┃스킬 적중 시 치유 감소(근거리)
+StatType/FullDecreaseRecoveryToBasicAttackRange┃기본 공격 시 치유 감소(원거리)
+StatType/HalfDecreaseRecoveryToBasicAttackRange┃기본 공격 시 치유 감소(원거리)
+StatType/FullDecreaseRecoveryToSkillRange┃스킬 적중 시 치유 감소(원거리)
+StatType/HalfDecreaseRecoveryToSkillRange┃스킬 적중 시 치유 감소(원거리)
+StatType/ItemBonusRatio┃착용한 장비 효과
+StatType/Tenacity┃방해 효과 저항
+StatType/UniqueAttackRange┃<color=#FFFF00>(고유)</color> 기본 공격 사거리
+StatType/UniqueHpHealedIncreaseRatio┃<color=#FFFF00>(고유)</color> 받는 회복 증가
+StatType/UniqueCooldownLimit┃<color=#FFFF00>(고유)</color> 최대 쿨다운 감소
+StatType/UniqueTenacity┃<color=#FFFF00>(고유)</color> 방해 효과 저항
+StatType/UniqueMoveSpeed┃<color=#FFFF00>(고유)</color> 이동 속도
+StatType/HpRegenRatioOutOfCombat┃비 전투중 체력 재생
+StatType/SpRegenRatioOutOfCombat┃비 전투중 스태미너 재생
+StatType/UniquePenetrationDefense┃<color=#FFFF00>(고유)</color> 방어 관통
+StatType/UniquePenetrationDefenseRatio┃<color=#FFFF00>(고유)</color> 방어 관통
+StatType/UniqueLifeSteal┃<color=#FFFF00>(고유)</color> 모든 피해 흡혈
